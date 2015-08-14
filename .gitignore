@@ -20,7 +20,7 @@ project/plugins/project/
 /project/target/
 /target/
 
-./activator*
+activator*
 
 
 # Scala-IDE specific
